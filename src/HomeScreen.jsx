@@ -7,6 +7,34 @@ function HomeScreen() {
         <div className="home-screen">
             {/* Navbar */}
             <Nav/>
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+            <h1>Test</h1>
+
+            
         </div>
   )
 }
