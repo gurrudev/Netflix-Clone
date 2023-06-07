@@ -2,10 +2,14 @@ import React from 'react'
 import './App.css'
 
 import HomeScreen from './HomeScreen'
+
 function App() {
   return (
     <>
-      <HomeScreen/>
+      <div className="app">
+        <HomeScreen/>
+      </div>
+     
       
     </>
   )
