@@ -11,7 +11,7 @@ function HomeScreen() {
            
             <Nav/>
             <Banner/>
-            <Row title="Netflix Originals" fetchUrl={requests.fetchNetflixOriginals} isLargeRow/>
+            <Row title="NETFLIX ORIGINAL" fetchUrl={requests.fetchNetflixOriginals} isLargeRow/>
             <Row title="Top Rated" fetchUrl={requests.fetchTopRated} />
             <Row title="Action " fetchUrl={requests.fetchActionMovies} />
             <Row title="Comedy " fetchUrl={requests.fetchComedyMovies} />
