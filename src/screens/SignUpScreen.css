@@ -11,6 +11,10 @@
     flex-direction: column;
 }
 
+.signup-screen > form > h1{
+    font-size: xx-large;
+}
+
 .signup-screen > form > input{
    outline:none;
    height: 40px;
@@ -44,12 +48,11 @@
     color: gray;
 }
 
-.signup-link a{
+.signup-link{
     color: #fff;
     cursor: pointer;
 }
 
-.signup-link a:hover{
-    cursor: pointer;
-    text-decoration: underline;
+.signup-link:hover{
+    color: #ffffffc7;
 }

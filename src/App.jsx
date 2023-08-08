@@ -6,6 +6,8 @@ import HomeScreen from '../src/screens/HomeScreen'
 import LoginScreen from './screens/LoginScreen'
 import { useDispatch, useSelector } from 'react-redux'
 import { login, logout, selectUser } from './features/userSlice'
+import ProfileScreen from './screens/ProfileScreen'
+
 
 function App() {
   const user = useSelector(selectUser);
@@ -34,7 +36,10 @@ function App() {
             {!user ?(
               <Route exact path="/" element={<LoginScreen/>} />
             ) : (
-              <Route exact path="/" element={<HomeScreen />} />
+              <>
+                <Route exact path="/profile" element={<ProfileScreen />} />
+                <Route exact path="/" element={<HomeScreen />} />
+              </>
             )}
           </Routes>            
         </BrowserRouter>
