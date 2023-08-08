@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import {  Route, BrowserRouter, Routes } from 'react-router-dom'
 import './App.css'
-import { auth } from '../Firebase'
+import { auth } from '../firebase'
 import HomeScreen from '../src/screens/HomeScreen'
 import LoginScreen from './screens/LoginScreen'
 import { useDispatch, useSelector } from 'react-redux'
