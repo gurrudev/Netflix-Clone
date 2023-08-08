@@ -12,7 +12,7 @@
 }
 
 .signup-screen > form > input{
-   outline-width: 0;
+   outline:none;
    height: 40px;
    margin-bottom: 14px;
    border-radius: 5px;
@@ -31,6 +31,9 @@
     cursor: pointer;
     margin-top: 20px;
 }
+.signup-screen > form > button:hover {
+    background-color:#f32f39
+}
 
 .signup-screen > form > h4 {
     text-align: left;
@@ -43,6 +46,7 @@
 
 .signup-link a{
     color: #fff;
+    cursor: pointer;
 }
 
 .signup-link a:hover{

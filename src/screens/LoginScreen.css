@@ -1,6 +1,6 @@
 .login-screen{
     position: relative;
-    height: 100%;
+    height: 100vh;
     background: url('../assets/img/bg-cover.png') center no-repeat;
     background-size: cover;
     width: 100%;
@@ -9,27 +9,29 @@
 
 .login-screen-body{
     position: absolute;
-    top: 25%;
+    top: 27%;
     margin-left: auto;
     margin-right: auto;
+    left: 0;
+    right: 0;
     text-align: center;
     z-index: 1;
     color: #fff;
     padding: 20px;
-    left: 0;
-    right: 0;
-    max-width: 400px;
-    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .login-screen-body h1{
     font-size: 3.125rem;
-    margin-bottom: 20px;
+    margin-bottom: 18px;
 }
 
 .login-screen-body h2{
     font-size: 2rem;
-    font-weight: 200;
+    font-weight: 400;
     margin-bottom: 30px;
 }
 
@@ -71,14 +73,16 @@
     border: none;
     cursor: pointer;
 }
-
+.login-screen-btn:hover{
+    background-color:#f32f39
+}
 .login-screen-input{
     margin: 20px;
 }
 .login-screen-input > form > input{
     width: 35%;
     padding: 10px;
-    outline-width: 0;
+    outline: none;
     height: 30px;
     font-size: 1rem;
     border: none;
@@ -86,10 +90,14 @@
 }
 
 .login-screen-input > form > button{
-    padding: 15px 20px;
+    padding: 15.5px 20px;
     font-size: 1rem;
     color: #fff;
     border: none;
     background-color: #e50914;
     cursor: pointer;
+}
+
+.login-screen-input > form > button:hover{
+    background-color: #f32f39
 }

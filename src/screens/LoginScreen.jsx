@@ -6,7 +6,7 @@ import SignUpScreen from './SignUpScreen';
 
 function LoginScreen() {
 
-    const [signIn, setSignIn] = useState(true);
+    const [signIn, setSignIn] = useState(false);
 
     return (
 
