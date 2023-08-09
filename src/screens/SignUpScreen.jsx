@@ -14,7 +14,7 @@ function SignUpScreen() {
       emailRef.current.value, 
       passwordRef.current.value
     ).then((authUser)=>{
-      console.log(authUser);
+      // console.log(authUser);
     }).catch(err => {
       alert(err.message);
     });
@@ -26,7 +26,7 @@ function SignUpScreen() {
       emailRef.current.value, 
       passwordRef.current.value
     ).then((authUser)=>{
-      console.log(authUser);
+      // console.log(authUser);
     }).catch(err => {
       alert(err.message);
     });
