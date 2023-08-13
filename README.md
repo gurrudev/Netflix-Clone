@@ -29,8 +29,8 @@
  <a href="https://firebase.google.com/"> <img src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=" alt="cyclic" /></a>
 </p>
 
-![gurrudev's Stats](https://github-readme-stats.vercel.app/api?username=gurrudev&theme=react&show_icons=true&hide_border=true) | ![gurrudev's Streak](https://github-readme-streak-stats.herokuapp.com?user=gurrudev&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=d38234&fire=e1d038&stroke=00000000&currStreakNum=ff5700&currStreakLabel=A6A6A6&border=00000000) |
-| :---: | :---: | 
+![Screenshot 2023-08-13 140424](https://github.com/gurrudev/Netflix-Clone/assets/80522156/652a2d46-be68-4ac5-afa5-b7d97f39f4c1) | 
+| :---: | 
 
 <h3 align=""><a href="https://neflix-30554.web.app/"><strong>Want to see live preview »</strong></a></h3>
 
@@ -40,6 +40,7 @@
 
 If you want to contact me, you can reach me through below handles. <br /><br />
 [![linkedin](https://img.shields.io/badge/Ashutosh_Pawar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurrudev/)
+
 [![GitHub](https://img.shields.io/badge/gurrudev-27374D?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gurrudev)
 
 
