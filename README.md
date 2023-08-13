@@ -36,7 +36,35 @@
 
 <h3 align=""><a href="https://neflix-30554.web.app/"><strong>Want to see live preview »</strong></a></h3>
 
+💻 Usage:
+
+```js
+const API_KEY = import.meta.env.VITE_TMDB_API_KEY
+```
+
+```js
+const firebaseConfig = {
+    apiKey: import.meta.env.VITE_apiKey,
+    authDomain: import.meta.env.VITE_authDomain,
+    projectId: import.meta.env.VITE_projectId,
+    storageBucket: import.meta.env.VITE_storageBucket,
+    messagingSenderId: import.meta.env.VITE_messagingSenderId,
+    appId: import.meta.env.VITE_appId
+}
+```
+📦 Install:
+```sh
+$ npm i 
+```
+
+🚀 Start: 
+```sh
+$ npm run dev
+```
+
 <br />
+
+
 
 ## Contact
 
