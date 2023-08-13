@@ -31,8 +31,8 @@
 
 <h4 align="">Screenshot:</h4>
 
-![Screenshot 2023-08-13 140424](https://github.com/gurrudev/Netflix-Clone/assets/80522156/652a2d46-be68-4ac5-afa5-b7d97f39f4c1) | 
-| :---: | 
+![Screenshot 2023-08-13 140424](https://github.com/gurrudev/Netflix-Clone/assets/80522156/652a2d46-be68-4ac5-afa5-b7d97f39f4c1) | ![Screenshot 2023-08-13 141937](https://github.com/gurrudev/Netflix-Clone/assets/80522156/078d7789-34c2-4fc4-b6ed-f59b57038d39) |
+| :---: | :---: | 
 
 <h3 align=""><a href="https://neflix-30554.web.app/"><strong>Want to see live preview »</strong></a></h3>
 
