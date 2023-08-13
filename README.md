@@ -1,5 +1,5 @@
-<h1 align=""> Cryptocurrency Tracker</h1>
-<h4 align="">The Cryptocurrency Tracker project is a powerful and user-friendly web application designed to provide real-time insights and updates on the dynamic world of cryptocurrencies.</h4>
+<h1 align=""> Netflix-Clone</h1>
+<h4 align="">The Netflix Clone project is a captivating and meticulously crafted web application that brings the immersive entertainment experience of the popular streaming platform right to your fingertips. Immerse yourself in a world of captivating movies, TV shows, and original content through a visually stunning and user-friendly interface that mirrors the beloved Netflix platform.</h4>
 
    
 <br />
@@ -20,16 +20,16 @@
 <h4 align="">Api:</h4>
 
 <p align="">
-  <img src="https://img.shields.io/badge/TMDB-03248f?style=for-the-badge&logo=axios&logoColor=white" alt="cyclic" />
+  <a href="https://www.themoviedb.org/"><img src="https://img.shields.io/badge/TMDB-03248f?style=for-the-badge&logo=axios&logoColor=white" alt="cyclic" /></a>
 </p>
 
 <h4 align="">Deployed On:</h4>
 
 <p align="">
-  <img src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=" alt="cyclic" />
+ <a href="https://firebase.google.com/"> <img src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=" alt="cyclic" /></a>
 </p>
 
-<h3 align=""><a href="https://cryptotrackerno1.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align=""><a href="https://neflix-30554.web.app/"><strong>Want to see live preview »</strong></a></h3>
 
 <br />
 
