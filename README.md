@@ -36,6 +36,8 @@
 
 <h3 align=""><a href="https://neflix-30554.web.app/"><strong>Want to see live preview »</strong></a></h3>
 
+<br />
+
 💻 Usage:
 
 ```js
