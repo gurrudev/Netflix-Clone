@@ -4,12 +4,18 @@ import 'firebase/compat/firestore'
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBRl5J48Vwzj14BhyNaiWtrUSFwn4w-J_k",
-  authDomain: "netflix-clone-140f4.firebaseapp.com",
-  projectId: "netflix-clone-140f4",
-  storageBucket: "netflix-clone-140f4.appspot.com",
-  messagingSenderId: "105921772965",
-  appId: "1:105921772965:web:4f299cc337a10262ffbc4c"
+    apiKey: "AIzaSyBueF2exJYrDEhkeuDc6xKOaEP4VXKqGWo",
+  
+    authDomain: "neflix-30554.firebaseapp.com",
+  
+    projectId: "neflix-30554",
+  
+    storageBucket: "neflix-30554.appspot.com",
+  
+    messagingSenderId: "35757164016",
+  
+    appId: "1:35757164016:web:1b089040a2c6362eac8935"
+  
 };
 
 // Initialize Firebase

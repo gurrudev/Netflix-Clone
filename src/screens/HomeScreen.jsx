@@ -2,7 +2,7 @@
 import './HomeScreen.css'
 import Nav from '../Nav'
 import Banner from '../Banner'
-import requests from '../Request'
+import requests from '../../helper/request'
 import Row from '../Row'
 
 function HomeScreen() {
