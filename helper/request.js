@@ -1,4 +1,4 @@
-const API_KEY = "3e552c8612f2b4ba31734d8fb534d684"
+export const API_KEY = "3e552c8612f2b4ba31734d8fb534d684"
 
 const requests = {
     fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
@@ -9,7 +9,6 @@ const requests = {
     fetchHorrorMovies: `/discover/movie?api_key=${API_KEY}&with_genres=27`,
     fetchRomanticMovies: `/discover/movie?api_key=${API_KEY}&with_genres=10749`,
     fetchDocumentaries: `/discover/movie?api_key=${API_KEY}&with_genres=99`
-
 }
 
 
