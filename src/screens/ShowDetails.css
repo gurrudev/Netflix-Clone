@@ -10,7 +10,7 @@
     justify-content: space-between;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1024px) {
     .show-details-body {
         flex-direction: column;
     }
@@ -19,21 +19,25 @@
 .show-poster {
     width: 35%;
     max-width: fit-content;
-    padding-left: 20px; /* Adjusted padding value */
+    padding-left: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: #f90000; */
 }
 
 .show-poster img {
     width: 100%;
-    height: auto; /* Changed height to auto for responsive scaling */
+    height: 500px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
-@media screen and (min-width: 430px){
+@media screen and (max-width: 430px) {
     .show-poster {
         width: 100%;
-        padding: 20px; /* Removed unnecessary padding value */
+        padding: 20px;
         margin-top: 5%;
-        background-color: #ada7a731;
+        background-color: #99999913;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -41,18 +45,17 @@
 
     .show-poster img {
         width: 60%;
-        height: auto; /* Changed height to auto for responsive scaling */
+        height: auto;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-        
     }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (max-width: 1024px) {
     .show-poster {
         width: 100%;
-        padding: 70px; /* Removed unnecessary padding value */
+        padding: 70px;
         margin-top: 5%;
-        background-color: #ada7a710;
+        background-color: #99999913;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -60,15 +63,14 @@
 
     .show-poster img {
         width: 50%;
-        height: auto; /* Changed height to auto for responsive scaling */
+        height: auto;
         box-shadow: 0 0 10px rgba(20, 20, 20, 0.3);
-        
     }
 }
 
 .show-details {
-    padding-top: 20px;
     width: 65%;
+    padding-top: 20px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -76,10 +78,7 @@
         width: 100%;
         margin-top: 5%;
     }
-
 }
-
-
 
 .show-title {
     display: flex;
@@ -99,7 +98,7 @@
 .tabs-container {
     margin-top: 30px;
     display: flex;
-    gap: 50px;
+    gap: 20px; /* Adjusted gap for better spacing */
     border-bottom: 1px solid #9999991d;
 }
 
@@ -126,12 +125,11 @@
 .show-overview p {
     padding-top: 1rem;
     line-height: 1.5;
-    /* Removed text-overflow property as it is not applicable to block-level elements */
 }
 
 .show-overview-details {
     display: flex;
-    gap: 20px;
+    gap: 10px; /* Adjusted gap for better spacing */
 }
 
 .overview-key {
