@@ -8,7 +8,7 @@
     overflow-y: hidden;
     overflow-x: scroll;
     scroll-behavior: smooth;
-    padding: 20px;
+    padding: 20px 0 20px 0;
 }
 
 
@@ -30,7 +30,7 @@
 
 
 .row__poster:hover{
-    transform: scale(1.08);
+    transform: scale(1.09);
     opacity: 1;
 }
 
@@ -40,6 +40,6 @@
 }
 
 .row__posterLarge:hover{
-    transform: scale(1.09);
+    transform: scale(1.10);
     opacity: 1;
 }
